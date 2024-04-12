@@ -1,0 +1,11 @@
+{
+  "name": "gmaps-coordinate",
+  "version": "1.0.0",
+  "description": "GMaps Url To Coordinate",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nael Lilik",
+  "license": "ISC"
+}
